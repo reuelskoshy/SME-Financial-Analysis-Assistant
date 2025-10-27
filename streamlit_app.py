@@ -14,7 +14,7 @@ if "agent" not in st.session_state:
     st.session_state["agent"] = None
 
 st.set_page_config(page_title="SME Business Assistant", layout="wide")
-st.title("SME Business Assistant (RAG + LLM)")
+st.title("SME Business Assistant 💼🤖")
 
 # Sidebar settings
 with st.sidebar:
